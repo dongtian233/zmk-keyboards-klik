@@ -44,7 +44,7 @@
         transform = <&default_transform>; // Label of the matrix transform for this layout
     };
 };
-//节点选择
+//节点选择,也可以多个布局使用一个kscan
 / {
     chosen {
         zmk,physical-layout = &physical_layout0;
