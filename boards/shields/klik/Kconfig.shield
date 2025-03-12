@@ -1,2 +1,2 @@
-config SHIELD_MY_KEYBOARD
+config SHIELD_KLIK
   def_bool $(shields_list_contains,klik)
