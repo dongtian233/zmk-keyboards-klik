@@ -1,4 +1,4 @@
-if SHIELD_MY_KEYBOARD
+if SHIELD_KLIK
 
 config ZMK_KEYBOARD_NAME
     default "klik"
